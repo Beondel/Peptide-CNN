@@ -1,0 +1,26 @@
+Parameters: 0
+Epoch	Loss(Tr)	Loss(val)	MSE (tr)	MSE (val)	Parameters: 0
+Epoch	Loss(Tr)	Loss(val)	MSE (tr)	MSE (val)	Parameters: 0
+Epoch	Loss(Tr)	Loss(val)	MSE (tr)	MSE (val)	Parameters: 0
+Epoch	Loss(Tr)	Loss(val)	MSE (tr)	MSE (val)	Parameters: 0
+Epoch	Loss(Tr)	Loss(val)	MSE (tr)	MSE (val)	Parameters: 0
+Epoch	Loss(Tr)	Loss(val)	MSE (tr)	MSE (val)	Parameters: 0
+Epoch	Loss(Tr)	Loss(val)	MSE (tr)	MSE (val)	Parameters: 0
+Epoch	Loss(Tr)	Loss(val)	MSE (tr)	MSE (val)	Parameters: 0
+Epoch	Loss(Tr)	Loss(val)	MSE (tr)	MSE (val)	Parameters: 0
+Epoch	Loss(Tr)	Loss(val)	MSE (tr)	MSE (val)	Parameters: 0
+Epoch	Loss(Tr)	Loss(val)	MSE (tr)	MSE (val)	Parameters: 0
+Epoch	Loss(Tr)	Loss(val)	MSE (tr)	MSE (val)	Parameters: 0
+Epoch	Loss(Tr)	Loss(val)	MSE (tr)	MSE (val)	Parameters: 0
+Epoch	Loss(Tr)	Loss(val)	MSE (tr)	MSE (val)	Parameters: 0
+Epoch	Loss(Tr)	Loss(val)	MSE (tr)	MSE (val)	Parameters: 0
+Epoch	Loss(Tr)	Loss(val)	MSE (tr)	MSE (val)	Parameters: 0
+Epoch	Loss(Tr)	Loss(val)	MSE (tr)	MSE (val)	Parameters: 0
+Epoch	Loss(Tr)	Loss(val)	MSE (tr)	MSE (val)	Parameters: 0
+Epoch	Loss(Tr)	Loss(val)	MSE (tr)	MSE (val)	Parameters: 0
+Epoch	Loss(Tr)	Loss(val)	MSE (tr)	MSE (val)	Parameters: 0
+Epoch	Loss(Tr)	Loss(val)	MSE (tr)	MSE (val)	Parameters: 0
+Epoch	Loss(Tr)	Loss(val)	MSE (tr)	MSE (val)	Parameters: 0
+Epoch	Loss(Tr)	Loss(val)	MSE (tr)	MSE (val)	Parameters: 0
+Epoch	Loss(Tr)	Loss(val)	MSE (tr)	MSE (val)	Parameters: 0
+Epoch	Loss(Tr)	Loss(val)	MSE (tr)	MSE (val)	
